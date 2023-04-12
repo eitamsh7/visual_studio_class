@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\Farm\Farm\bin\Debug\netcoreapp3.1\FarmManagement.exe
+C:\Users\eitam\source\repos\Farm\Farm\bin\Debug\netcoreapp3.1\FarmManagement.deps.json
+C:\Users\eitam\source\repos\Farm\Farm\bin\Debug\netcoreapp3.1\FarmManagement.runtimeconfig.json
+C:\Users\eitam\source\repos\Farm\Farm\bin\Debug\netcoreapp3.1\FarmManagement.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\Farm\Farm\bin\Debug\netcoreapp3.1\FarmManagement.dll
+C:\Users\eitam\source\repos\Farm\Farm\bin\Debug\netcoreapp3.1\FarmManagement.pdb
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.AssemblyInfo.cs
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.dll
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.pdb
+C:\Users\eitam\source\repos\Farm\Farm\obj\Debug\netcoreapp3.1\FarmManagement.genruntimeconfig.cache

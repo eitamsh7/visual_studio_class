@@ -1,0 +1,7 @@
+C:\Users\eitam\source\repos\TreeProg\TreeProg\bin\Debug\TreeProg.exe.config
+C:\Users\eitam\source\repos\TreeProg\TreeProg\bin\Debug\TreeProg.exe
+C:\Users\eitam\source\repos\TreeProg\TreeProg\bin\Debug\TreeProg.pdb
+C:\Users\eitam\source\repos\TreeProg\TreeProg\obj\Debug\TreeProg.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\TreeProg\TreeProg\obj\Debug\TreeProg.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\TreeProg\TreeProg\obj\Debug\TreeProg.exe
+C:\Users\eitam\source\repos\TreeProg\TreeProg\obj\Debug\TreeProg.pdb

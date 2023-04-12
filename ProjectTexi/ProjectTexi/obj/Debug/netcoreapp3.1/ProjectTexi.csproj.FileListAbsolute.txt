@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\bin\Debug\netcoreapp3.1\ProjectTexi.exe
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\bin\Debug\netcoreapp3.1\ProjectTexi.deps.json
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\bin\Debug\netcoreapp3.1\ProjectTexi.runtimeconfig.json
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\bin\Debug\netcoreapp3.1\ProjectTexi.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\bin\Debug\netcoreapp3.1\ProjectTexi.dll
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\bin\Debug\netcoreapp3.1\ProjectTexi.pdb
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.AssemblyInfo.cs
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.dll
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.pdb
+C:\Users\eitam\source\repos\ProjectTexi\ProjectTexi\obj\Debug\netcoreapp3.1\ProjectTexi.genruntimeconfig.cache

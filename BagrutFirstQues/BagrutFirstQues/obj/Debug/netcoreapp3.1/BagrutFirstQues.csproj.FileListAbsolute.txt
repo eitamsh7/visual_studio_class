@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\bin\Debug\netcoreapp3.1\BagrutFirstQues.exe
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\bin\Debug\netcoreapp3.1\BagrutFirstQues.deps.json
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\bin\Debug\netcoreapp3.1\BagrutFirstQues.runtimeconfig.json
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\bin\Debug\netcoreapp3.1\BagrutFirstQues.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\bin\Debug\netcoreapp3.1\BagrutFirstQues.dll
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\bin\Debug\netcoreapp3.1\BagrutFirstQues.pdb
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.AssemblyInfo.cs
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.dll
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.pdb
+C:\Users\eitam\source\repos\BagrutFirstQues\BagrutFirstQues\obj\Debug\netcoreapp3.1\BagrutFirstQues.genruntimeconfig.cache

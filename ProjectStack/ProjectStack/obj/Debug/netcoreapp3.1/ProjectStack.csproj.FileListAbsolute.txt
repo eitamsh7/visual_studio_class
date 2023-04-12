@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\bin\Debug\netcoreapp3.1\ProjectStack.exe
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\bin\Debug\netcoreapp3.1\ProjectStack.deps.json
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\bin\Debug\netcoreapp3.1\ProjectStack.runtimeconfig.json
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\bin\Debug\netcoreapp3.1\ProjectStack.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\bin\Debug\netcoreapp3.1\ProjectStack.dll
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\bin\Debug\netcoreapp3.1\ProjectStack.pdb
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.AssemblyInfo.cs
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.dll
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.pdb
+C:\Users\eitam\source\repos\ProjectStack\ProjectStack\obj\Debug\netcoreapp3.1\ProjectStack.genruntimeconfig.cache

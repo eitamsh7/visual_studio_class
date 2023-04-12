@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\Page24question2\Page24question2\bin\Debug\netcoreapp3.1\Page24question2.exe
+C:\Users\eitam\source\repos\Page24question2\Page24question2\bin\Debug\netcoreapp3.1\Page24question2.deps.json
+C:\Users\eitam\source\repos\Page24question2\Page24question2\bin\Debug\netcoreapp3.1\Page24question2.runtimeconfig.json
+C:\Users\eitam\source\repos\Page24question2\Page24question2\bin\Debug\netcoreapp3.1\Page24question2.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\Page24question2\Page24question2\bin\Debug\netcoreapp3.1\Page24question2.dll
+C:\Users\eitam\source\repos\Page24question2\Page24question2\bin\Debug\netcoreapp3.1\Page24question2.pdb
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.AssemblyInfo.cs
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.dll
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.pdb
+C:\Users\eitam\source\repos\Page24question2\Page24question2\obj\Debug\netcoreapp3.1\Page24question2.genruntimeconfig.cache
