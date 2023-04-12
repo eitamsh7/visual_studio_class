@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\bin\Debug\netcoreapp3.1\ProjectRecursion.exe
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\bin\Debug\netcoreapp3.1\ProjectRecursion.deps.json
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\bin\Debug\netcoreapp3.1\ProjectRecursion.runtimeconfig.json
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\bin\Debug\netcoreapp3.1\ProjectRecursion.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\bin\Debug\netcoreapp3.1\ProjectRecursion.dll
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\bin\Debug\netcoreapp3.1\ProjectRecursion.pdb
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.AssemblyInfo.cs
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.dll
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.pdb
+C:\Users\eitam\source\repos\ProjectRecursion\ProjectRecursion\obj\Debug\netcoreapp3.1\ProjectRecursion.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\bin\Debug\netcoreapp3.1\ProjectQueue.exe
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\bin\Debug\netcoreapp3.1\ProjectQueue.deps.json
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\bin\Debug\netcoreapp3.1\ProjectQueue.runtimeconfig.json
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\bin\Debug\netcoreapp3.1\ProjectQueue.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\bin\Debug\netcoreapp3.1\ProjectQueue.dll
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\bin\Debug\netcoreapp3.1\ProjectQueue.pdb
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.AssemblyInfo.cs
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.dll
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.pdb
+C:\Users\eitam\source\repos\ProjectQueue\ProjectQueue\obj\Debug\netcoreapp3.1\ProjectQueue.genruntimeconfig.cache

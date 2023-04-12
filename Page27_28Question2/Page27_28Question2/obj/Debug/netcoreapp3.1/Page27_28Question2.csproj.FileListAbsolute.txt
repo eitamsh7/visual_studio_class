@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\bin\Debug\netcoreapp3.1\Page27_28Question2.exe
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\bin\Debug\netcoreapp3.1\Page27_28Question2.deps.json
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\bin\Debug\netcoreapp3.1\Page27_28Question2.runtimeconfig.json
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\bin\Debug\netcoreapp3.1\Page27_28Question2.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\bin\Debug\netcoreapp3.1\Page27_28Question2.dll
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\bin\Debug\netcoreapp3.1\Page27_28Question2.pdb
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.AssemblyInfo.cs
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.dll
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.pdb
+C:\Users\eitam\source\repos\Page27_28Question2\Page27_28Question2\obj\Debug\netcoreapp3.1\Page27_28Question2.genruntimeconfig.cache

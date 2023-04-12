@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\bin\Debug\netcoreapp3.1\ListOfNodes.exe
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\bin\Debug\netcoreapp3.1\ListOfNodes.deps.json
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\bin\Debug\netcoreapp3.1\ListOfNodes.runtimeconfig.json
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\bin\Debug\netcoreapp3.1\ListOfNodes.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\bin\Debug\netcoreapp3.1\ListOfNodes.dll
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\bin\Debug\netcoreapp3.1\ListOfNodes.pdb
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.AssemblyInfo.cs
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.dll
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.pdb
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.genruntimeconfig.cache
+C:\Users\eitam\source\repos\ListOfNodes\ListOfNodes\obj\Debug\netcoreapp3.1\ListOfNodes.csproj.AssemblyReference.cache

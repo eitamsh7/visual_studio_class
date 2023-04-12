@@ -1,0 +1,14 @@
+C:\Users\eitam\source\repos\ProjectString\ProjectString\bin\Debug\netcoreapp3.1\ProjectString.exe
+C:\Users\eitam\source\repos\ProjectString\ProjectString\bin\Debug\netcoreapp3.1\ProjectString.deps.json
+C:\Users\eitam\source\repos\ProjectString\ProjectString\bin\Debug\netcoreapp3.1\ProjectString.runtimeconfig.json
+C:\Users\eitam\source\repos\ProjectString\ProjectString\bin\Debug\netcoreapp3.1\ProjectString.runtimeconfig.dev.json
+C:\Users\eitam\source\repos\ProjectString\ProjectString\bin\Debug\netcoreapp3.1\ProjectString.dll
+C:\Users\eitam\source\repos\ProjectString\ProjectString\bin\Debug\netcoreapp3.1\ProjectString.pdb
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.csproj.AssemblyReference.cache
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.AssemblyInfoInputs.cache
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.AssemblyInfo.cs
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.csproj.CoreCompileInputs.cache
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.dll
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.pdb
+C:\Users\eitam\source\repos\ProjectString\ProjectString\obj\Debug\netcoreapp3.1\ProjectString.genruntimeconfig.cache
